@@ -2,7 +2,7 @@
 <html lang="en" dir="ltr">
 	<?php include('./inc/html-top.php') ?>
 <body>
-
+	<?php include('./inc/nav.php'); ?>
 	<div class="ui raised very padded text container segment">
 
 	<h1>JONATHAN ROMAN</h1>

@@ -1,9 +1,9 @@
 
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
-	<?php include('./inc/html-top.php') ?>
+	<?php include('./inc/html-top.php'); ?>
 <body>
-
+	<?php include('./inc/nav.php'); ?>
 	<div class="ui raised very padded text container segment">
 	<h1>HOPE BARKLEY</h1>
 
