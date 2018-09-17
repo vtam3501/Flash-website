@@ -6,6 +6,7 @@
     </head>
   </head>
   <body>
+    <?php include('./inc/nav.php'); ?>
 
   </body>
 </html>
