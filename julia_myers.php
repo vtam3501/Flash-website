@@ -1,10 +1,15 @@
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
+<<<<<<< HEAD
 	<head>
 		<meta charset="utf-8">
 		<title></title>
 		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.3.3/semantic.css">
+        <link rel = "stylesheet" href="styles.css">
 	</head>
+=======
+	<?php include('./inc/html-top.php') ?>
+>>>>>>> 3e34fcfc61ff0be6add6036742e23bee067b16e9
 
 	<body>
 		<div class="ui raised very padded text container segment">
