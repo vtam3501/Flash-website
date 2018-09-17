@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css?family=Bree+Serif');
+
+@import url('https://fonts.googleapis.com/css?family=Fredoka+One');
+
+body{
+    background-color: darkblue;
+    color:darkslateblue;
+    font-family: 'Bree Serif', serif;
+    font-size: 14px;
+    line-height: 1.5;
+}
+
+h1, h2, h3, h4, h5{
+    font-family: 'Fredoka One', cursive;
+}
+
+nav ul {
+    /*Formatting*/
+    margin: 0;
+    padding: 0;
+
+    /*List styles*/
+    list-style-type: none;
+    overflow: hidden;
+
+    /*Color and appearance*/
+    /*background-color: #cccccc;*/
+    opacity: .6;
+}
+
+
+nav li {
+    /*Formatting*/
+    display: inline-block;
+
+    /*Borders*/
+    border-right:1px solid #dddddd;
+}
+
+nav li:last-child {
+    /*Borders*/
+    border-right: none;
+}
+
+nav li a {
+    /*Formatting*/
+    display: block ;
+    text-align: center;
+    padding: 14px 16px;
+
+    /*Decoration*/
+    text-decoration: none;
+
+    /*Color and appearance*/
+    color: #000000;
+}
+
+
+nav li a:hover:not(.active) {
+    /*Color and appearance*/
+    color: #3333ff;
+}
+
+.active {
+    /*Color and appearance */
+    color: #00c3ff;
+}
+
+.nav:first-child{
+    margin-top: 0rem;
+}
+
+.nav{
+    /*Formatting*/
+    display: flex;
+    margin: 1rem 0em;
+    min-height: 2.85714286em;
+
+    /*Fonting*/
+    font-weight: normal;
+    font-size: 1rem;
+
+    background: #ffffff;
+    box-shadow: 0px 1px 2px 0 rgba(34, 36, 38, .25);
+
+
+}

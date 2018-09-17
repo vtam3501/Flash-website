@@ -1,4 +1,4 @@
-<nav class="menu">
+<nav id="nav">
 		<ul>
 		  	<li><a href="index.php">Home</a></li>
 		  	<li><a href="hope_barkley.php">Hope Barkley</a></li>
