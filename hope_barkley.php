@@ -1,9 +1,13 @@
 
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
+<<<<<<< HEAD
 	<?php include('./inc/html-top.php') ?>
+=======
+	<?php include('./inc/html-top.php'); ?>
+>>>>>>> 23cbcbf16e607b79f3bc821d0f8bafcce1931388
 <body>
-
+	<?php include('./inc/nav.php'); ?>
 	<div class="ui raised very padded text container segment">
 	<h1>HOPE BARKLEY</h1>
 

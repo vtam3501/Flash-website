@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
 <<<<<<< HEAD
+<<<<<<< HEAD
 	<head>
 		<meta charset="utf-8">
 		<title></title>
@@ -10,8 +11,12 @@
 =======
 	<?php include('./inc/html-top.php') ?>
 >>>>>>> 3e34fcfc61ff0be6add6036742e23bee067b16e9
+=======
+	<?php include('./inc/html-top.php') ?>
+>>>>>>> 23cbcbf16e607b79f3bc821d0f8bafcce1931388
 
 	<body>
+		<?php include('./inc/nav.php'); ?>
 		<div class="ui raised very padded text container segment">
 
 		<header>
