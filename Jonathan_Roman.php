@@ -1,13 +1,21 @@
-<?php include "include/html-top.inc"; ?>
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+	<head>
+		<meta charset="utf-8">
+		<title></title>
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.3.3/semantic.css">
+	</head>
+
 <body>
-	<?php include "include/nav.inc"; ?>
-	
+
+	<div class="ui raised very padded text container segment">
+
 	<h1>JONATHAN ROMAN</h1>
 
 	<div class="JRomanPicture">
 		<img src="images/JRomanPic.jpg" alt="JRomanPic" class="Picture">
 	</div>
-		
+
 	<div class="info">
 		<p>My name is Jonathan Roman. I'm from Tenafly, NJ and was born September 6th, 1997. I currently attend the University of Rochester with a major in Computer Science. MY hobbies include playing video games and basketball, both of which I participate in groups around campus for.
 		</p>
@@ -31,8 +39,6 @@
 		I have also worked as a warehouse employee for my dad, I would often be moving and packaging boxes and/or searching for items that needed to be shipped in the warehouse in order to package. Although it was not the most entertaining job in the world, I learned a lot about my dad's company and would be able to spend a lot of time working with my siblings along with my dad.
 		</p>
 	</div>
-	
-<script src="http://code.jquery.com/jquery.js"></script>
-<script src="scripts/js/menu-highlighter.js"></script>
+	</div>
 </body>
 </html>

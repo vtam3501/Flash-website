@@ -1,7 +1,13 @@
-<?php include "include/html-top.inc"; ?>
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+	<head>
+		<meta charset="utf-8">
+		<title></title>
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.3.3/semantic.css">
+	</head>
 
 	<body>
-		<div class="container">
+		<div class="ui raised very padded text container segment">
 
 		<header>
 			<h1>Julia Myers</h1>
@@ -28,7 +34,7 @@
 
 			<p>Also while in high school I worked as a tutor for the National Honors Society.  I tutored English and Math to a freshman student and helped him to study for the SAT.</p>
 
-			<p>At the end of high school I interned with Nordstrom as a Fashion Ambassador on their BP Fashion Board.  As an intern I helped advise the staff on current trends, make decisions about what should be sold in the teen section of Nordstrom, and promote the brand on social media.</p> 
+			<p>At the end of high school I interned with Nordstrom as a Fashion Ambassador on their BP Fashion Board.  As an intern I helped advise the staff on current trends, make decisions about what should be sold in the teen section of Nordstrom, and promote the brand on social media.</p>
 
 
 			<p>While studying abroad in Copenhagen this past spring, I interned at IIH Nordic, an online marketing and data analytics company.  There, I wrote articles for their website, helped to make promotional videos for the company, and helped to plan their events. I learned more about the possible professions in the technology and marketing fields, and gained practical work experience. Those experiences in conversation with my major courses have made me interested in pursuing an online marketing or data analytics career.</p>
