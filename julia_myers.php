@@ -13,7 +13,6 @@
 			<h1>Julia Myers</h1>
 		</header>
 
-		<?php include "include/nav.inc"; ?>
 
 		<img src="images/julia.jpg" alt="Julia"/>
 
