@@ -1,10 +1,16 @@
-<?php include "include/html-top.inc"; ?>
-<body>
 
-	<?php include "include/nav.inc"; ?>
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+	<head>
+		<meta charset="utf-8">
+		<title></title>
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.3.3/semantic.css">
+	</head>
 
+</body>
+
+	<div class="ui raised very padded text container segment">
 	<h1>HOPE BARKLEY</h1>
-
 
 	<div class="majors">
 		<div>
@@ -30,7 +36,7 @@
 
 	<div class="info">
 		<p>
-			 Hi, my name is Hope Barkley and I am a digital media studies student at the University of Rochester. I grew up in Tarrytown, NY, a suburb about 30 minutes outside of New York City. I attended Solomon Schechter School of Westchester, a Jewish day school located in Hartsdale, New York. I started gymnastics when I was 7 years-old and was a competetive gymnast throughout my high school career, before deciding not to pursue it in college. Before going to college, I reached USAG level 9 gymnastics and competed on a State and Regional level. During my senior year of high school I applied Early Decision to the University of Rochester and was accepted! I am currently majoring in Digital Media Studies, an interdisciplinary major focussing on technology industries, and hope to pursue a career in design or web development post graduation. 
+			 Hi, my name is Hope Barkley and I am a digital media studies student at the University of Rochester. I grew up in Tarrytown, NY, a suburb about 30 minutes outside of New York City. I attended Solomon Schechter School of Westchester, a Jewish day school located in Hartsdale, New York. I started gymnastics when I was 7 years-old and was a competetive gymnast throughout my high school career, before deciding not to pursue it in college. Before going to college, I reached USAG level 9 gymnastics and competed on a State and Regional level. During my senior year of high school I applied Early Decision to the University of Rochester and was accepted! I am currently majoring in Digital Media Studies, an interdisciplinary major focussing on technology industries, and hope to pursue a career in design or web development post graduation.
 		</p>
 	</div>
 
@@ -42,23 +48,21 @@
 
 	<div class="info">
 	<p>
-		I have had a variety of internships and jobs throughout my life. My first job was as a gymnastics coach at Westchester Gymnastics, where I taught to beginners. I spent the summer of 2016 working as the gymnastics coordinator for a day camp run by the Jewish Community Center of Tarrytown, where I worked with over 300 children every day teaching basic gymnastics skills. In the summer of 2017 following my Freshmen year of college, I worked in the User Experience Design department of Mastercard in NYC, and got the chance to work on a variety of exciting projects such as the redesign of MC's website, apps and conduct multiple research tests. This past summer, I was a graphic design intern for Regeneron, a biotechnology company located in Tarrytown NY. In this position, I helped run and manage many of their social media campaigns, create designs for corporate materials, and learned a great deal about marketing within the heathcare industry.  
+		I have had a variety of internships and jobs throughout my life. My first job was as a gymnastics coach at Westchester Gymnastics, where I taught to beginners. I spent the summer of 2016 working as the gymnastics coordinator for a day camp run by the Jewish Community Center of Tarrytown, where I worked with over 300 children every day teaching basic gymnastics skills. In the summer of 2017 following my Freshmen year of college, I worked in the User Experience Design department of Mastercard in NYC, and got the chance to work on a variety of exciting projects such as the redesign of MC's website, apps and conduct multiple research tests. This past summer, I was a graphic design intern for Regeneron, a biotechnology company located in Tarrytown NY. In this position, I helped run and manage many of their social media campaigns, create designs for corporate materials, and learned a great deal about marketing within the heathcare industry.
 	</p>
 	</div>
-		
+
 	<div class="intro">
 	<p>
-		 Last semester, I was a teaching assistant for Economics 207, an intermediate microeconomics course taught by Professor Rizzo. As part of my responsiblities I graded Problem sets, exams, and help develop the course scope. I really enjoyed this course when I took it and loved the chance to teach other students. This semester I am currently working as a Teaching Assistant for the Computer Science department in an introduction to Python course, CSC 161 taught by Professor Sarkis. I really loved the problem solving aspect of the labs, and so I decided to serve as a lab TA for the course. Weekly, I run two lab sessions for upwards of 50 students and answer questions on their homework assignments. 
+		 Last semester, I was a teaching assistant for Economics 207, an intermediate microeconomics course taught by Professor Rizzo. As part of my responsiblities I graded Problem sets, exams, and help develop the course scope. I really enjoyed this course when I took it and loved the chance to teach other students. This semester I am currently working as a Teaching Assistant for the Computer Science department in an introduction to Python course, CSC 161 taught by Professor Sarkis. I really loved the problem solving aspect of the labs, and so I decided to serve as a lab TA for the course. Weekly, I run two lab sessions for upwards of 50 students and answer questions on their homework assignments.
 	</p>
 	</div>
 
 	<footer>
 		<p class="hi"> Hope Barkley 2018 </p>
 	</footer>
-	
-<script src="http://code.jquery.com/jquery.js"></script>
-<script src="js/menu-highlighter.js"></script>
 
+	</div >
 </body>
 
 
