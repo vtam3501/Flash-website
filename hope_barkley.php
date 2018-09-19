@@ -1,8 +1,8 @@
-<?php include "include/html-top.inc"; ?>
+<?php include "include/html-top.php"; ?>
 <body>
 
-	<?php include "include/nav.inc"; ?>
-
+	<?php include "include/nav.php"; ?>
+	<div class="ui raised very padded text container segment">
 	<h1>HOPE BARKLEY</h1>
 
 
@@ -10,7 +10,7 @@
 		<div>
 			<img src="images/portrait.jpg" alt = "Hope Barkley">
 		</div>
-		<div>
+		<div class = "ui bulleted list" >
 		<ul class="list1">
 			<li class="header"> Areas of study </li>
 			<li> Digital Media Studies </li>
@@ -18,7 +18,7 @@
 			<li> Business </li>
 		</ul>
 		</div>
-		<div>
+		<div class = "ui bulleted list">
 			<ul class="list2">
 			<li class="header"> Campus Involvement </li>
 			<li> Meridian Society </li>
@@ -68,11 +68,16 @@
 
 	
 	<footer>
-		<p class="hi"> Hope Barkley 2018 </p>
+		<div class="hi"> Hope Barkley 2018 </div>
 	</footer>
 	
-<script src="http://code.jquery.com/jquery.js"></script>
-<script src="js/menu-highlighter.js"></script>
+	<script type="text/javascript" src="scripts/nav.js">
+
+	</script>
+	
+	<!--<script src="http://code.jquery.com/jquery.js"></script>
+	<script src="js/menu-highlighter.js"></script>-->
+	</div>
 
 </body>
 
