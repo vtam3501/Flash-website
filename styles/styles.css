@@ -58,7 +58,7 @@ nav li a {
 
 nav li a:hover:not(.active) {
     /*Color and appearance*/
-    color: #3333ff;
+    color: lightyellow;
 }
 
 .active {
