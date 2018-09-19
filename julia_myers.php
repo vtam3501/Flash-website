@@ -62,5 +62,8 @@
 		<script src="js/menu-highlighter.js"></script>
 
 	</div>
+	<script type="text/javascript" src="scripts/nav.js">
+
+	</script>
 </body>
 </html>
