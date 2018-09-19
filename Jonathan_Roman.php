@@ -1,7 +1,7 @@
-<?php include "include/html-top.inc"; ?>
+<?php include "include/html-top.php"; ?>
 <body>
-	<?php include "include/nav.inc"; ?>
-	
+	<?php include "include/nav.php"; ?>
+	<div class="ui raised very padded text container segment">
 	<h1>JONATHAN ROMAN</h1>
 
 	<div class="JRomanPicture">
@@ -46,8 +46,10 @@
 		</p>
 
 	</div>
+	</div>
 	
-<script src="http://code.jquery.com/jquery.js"></script>
-<script src="scripts/js/menu-highlighter.js"></script>
+	<!--<script src="http://code.jquery.com/jquery.js"></script>
+	<script src="scripts/js/menu-highlighter.js"></script>-->
+	<script type="text/javascript" src="scripts/nav.js">
 </body>
 </html>
