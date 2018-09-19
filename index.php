@@ -13,7 +13,6 @@
     </div>
     <script type="text/javascript" src="scripts/nav.js">
 
-<<<<<<< HEAD
     <div class="ui raised very padded text container segment">
       <div class="ui link list">
         <ul>
@@ -30,8 +29,6 @@
 
     <script type="text/javascript" src="scripts/nav.js">
 
-=======
->>>>>>> b9cf296ec01cc05360be2dcedfdac1e623d95c4f
     </script>
   </body>
 </html>

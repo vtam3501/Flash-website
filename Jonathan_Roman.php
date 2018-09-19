@@ -7,12 +7,12 @@
 	<div class="JRomanPicture">
 		<img src="images/JRomanPic.jpg" alt="JRomanPic" class="Picture">
 	</div>
-		
+
 	<div class="info">
 
 		<p>My name is Jonathan Roman. I'm from Tenafly, NJ and was born September 6th, 1997. I currently attend the University of Rochester with a major in Computer Science. MY hobbies include playing video games and basketball, both of which I participate in groups around campus for.
 		</p>
-		
+
 	</div>
 
 	<h2>Academics:</h2>
@@ -47,15 +47,8 @@
 
 	</div>
 	</div>
-<<<<<<< HEAD
 	<script type="text/javascript" src="scripts/nav.js">
 
 	</script>
-=======
-	
-	<!--<script src="http://code.jquery.com/jquery.js"></script>
-	<script src="scripts/js/menu-highlighter.js"></script>-->
-	<script type="text/javascript" src="scripts/nav.js">
->>>>>>> b9cf296ec01cc05360be2dcedfdac1e623d95c4f
 </body>
 </html>
