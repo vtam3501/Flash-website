@@ -6,7 +6,13 @@
     </head>
   </head>
   <body>
-    <?php include('./inc/nav.php'); ?>
+    <div class="ui raised very padded text container segment">
+      <div class="ui link list">
+        <?php include('./inc/nav.php'); ?>
+      </div>
+    </div>
+    <script type="text/javascript" src="scripts/nav.js">
 
+    </script>
   </body>
 </html>
