@@ -50,5 +50,8 @@
 	
 	<?php include "inc/scripts.inc"; ?>
 	
+	<footer>
+	Jonathan Roman 2018 | <a href="http://www.csc174.org/assignment01/jroman8/"> See my initial website! </a>
+	<footer>
 </body>
 </html>
