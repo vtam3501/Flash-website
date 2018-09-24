@@ -7,8 +7,6 @@
     <link rel="stylesheet" href="styles/styles.css">
 </head>
  <body>
-    <?php include('./inc/nav.php');
-    <script type="text/javascript" src="scripts/nav.js">
 
     <div class="ui raised very padded text container segment">
       <div class="ui link list">
@@ -23,9 +21,5 @@
         </ul>
       </div>
     </div>
-
-    <script type="text/javascript" src="scripts/nav.js">
-
-    </script>
-  </body>
+ </body>
 </html>
