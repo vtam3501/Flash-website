@@ -61,9 +61,9 @@
 	</article>
 
 	<footer>
-		Julia myers 2018 | <a href="http://www.csc174.org/assignment01/jmyers/lab_01/"> See my initial website! </a>
-	<footer>
-
+		Original Source: Julia myers 2018 | <a href="http://www.csc174.org/assignment01/jmyers/lab_01/"> Initial Website <a>	
+	</footer>
+	
 	<?php include "inc/scripts.inc"; ?>
 	
 </body>
