@@ -1,12 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
-    	<?php include('./inc/html-top.php'); ?>
-  <body>
-    <div class="ui raised very padded text container segment">
-      <div class="ui link list">
-        <?php include('./inc/nav.php'); ?>
-      </div>
-    </div>
+<head>
+    <meta charset="utf-8">
+    <title>Hope Barkley</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.3.3/semantic.css">
+    <link rel="stylesheet" href="styles/styles.css">
+</head>
+ <body>
+    <?php include('./inc/nav.php');
     <script type="text/javascript" src="scripts/nav.js">
 
     <div class="ui raised very padded text container segment">
