@@ -21,5 +21,8 @@
         </ul>
       </div>
     </div>
+
+    <?php include "inc/scripts.inc"; ?>
+    
  </body>
 </html>
