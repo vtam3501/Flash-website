@@ -33,7 +33,7 @@
       </p>
 
       <div>
-         Please See my initial website! | <a href="http://www.csc174.org/assignment01/hbarkley/"> Hope Barkley | 2018</a>
+         Please see my initial website! | <a href="http://www.csc174.org/assignment01/hbarkley/"> Hope Barkley | 2018</a>
       </div>
 
 
@@ -52,7 +52,7 @@
       </p>
 
       <div>
-         Please See my initial website! | <a href="http://www.csc174.org/assignment01/jroman8/"> Jonathan Roman | 2018</a>
+         Please see my initial website! | <a href="http://www.csc174.org/assignment01/jroman8/"> Jonathan Roman | 2018</a>
       </div>
 
 
