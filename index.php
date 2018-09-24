@@ -1,10 +1,6 @@
 <!DOCTYPE html>
-<html lang="en" dir="ltr">
-  <head>
-    <head>
+<html lang="en">
     	<?php include('./inc/html-top.php'); ?>
-    </head>
-  </head>
   <body>
     <div class="ui raised very padded text container segment">
       <div class="ui link list">
