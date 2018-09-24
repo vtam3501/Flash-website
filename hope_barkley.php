@@ -58,19 +58,8 @@
 		<div class="hi"> Hope Barkley 2018 </div>
 	</footer>
 
-	<script type="text/javascript" src="scripts/nav.js">
-
-	</script>
-
-	<!--<script src="http://code.jquery.com/jquery.js"></script>
-	<script src="js/menu-highlighter.js"></script>-->
-	</div>
-
-	</div >
-
-	<script type="text/javascript" src="scripts/nav.js">
-
-	</script>
+	<?php include "inc/scripts.inc"; ?>
+	
 </body>
 
 
