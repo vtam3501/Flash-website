@@ -1,4 +1,4 @@
-<?php include "include/html-top.php"; ?>
+
 <body>
 
 	<?php include "include/nav.php"; ?>
@@ -59,7 +59,7 @@
 	</footer>
 
 	<?php include "inc/scripts.inc"; ?>
-	
+
 </body>
 
 

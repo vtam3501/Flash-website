@@ -7,13 +7,12 @@
   <link rel="stylesheet" href="css/styles.css">
   <link rel="stylesheet" href="css/navigation.css">
   <link rel="stylesheet" type="text/css" href="css/current.css">
-  <link rel="icon" href="img/icon.png">
 </head>
 
 <body>
   <header>
       <h1>The Flash Website of Tokyo</h1>
-    </header>
+  </header>
 
     <?php include "inc/nav.inc"; ?>
 
