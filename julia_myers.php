@@ -58,12 +58,10 @@
 			<p>Julia Myers, CSC 174 Advanced Webpage Design and Development</p>
 		</footer>
 
-		<script src="http://code.jquery.com/jquery.js"></script>
-		<script src="js/menu-highlighter.js"></script>
-
+		
 	</div>
-	<script type="text/javascript" src="scripts/nav.js">
 
-	</script>
+	<?php include "inc/scripts.inc"; ?>
+	
 </body>
 </html>
