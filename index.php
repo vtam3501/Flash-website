@@ -21,7 +21,7 @@
     <h2> Hope Barkley | Brief Introduction</h2>
 
       <figure>
-        <img src="img/portrait.jpg" alt="the picture of Hope Barkley">
+        <img src="images/portrait.jpg" alt="the picture of Hope Barkley">
 
         <figcaption>
           Here is a picture of Hope Barkley
@@ -42,7 +42,7 @@
 
         <figure>
 
-          <img src="img/jromanpic.jpg" alt="the picture of Jonathan Roman">
+          <img src="images/jromanpic.jpg" alt="the picture of Jonathan Roman">
 
           <figcaption>
             Here is a picture of Jonathan Roman
@@ -66,7 +66,7 @@
 
         <figure>
 
-          <img src="img/julia.jpg" alt="the picture of Julia Myers">
+          <img src="images/julia.jpg" alt="the picture of Julia Myers">
 
           <figcaption>
            Here is a picture of Julia Myers
