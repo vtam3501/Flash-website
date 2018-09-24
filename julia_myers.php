@@ -22,14 +22,14 @@
 		<h2> Brief Introduction</h2>
 
 			<figure>
-				<img src="images/portrait.jpg" alt = "Hope Barkley">
+				<img src="images/julia.jpg" alt = "Julia Myers">
 				<figcaption>
-					Here is a picture of Hope Barkley
+					Here is a picture of Julia Myers
 				</figcaption>
 			</figure>
 			
 			<p> 
-				Hi, My name is Julia! I am originally from Westfield, New Jersey but I currently live in Rocehster, New York while attending the University of Rochester.  At UofR I am studying to get a major in Digital Media Studies and a double minor in Computer Science and Business.  I am also a member of the varsity Cross Country and Track and Field Teams.  Outside of classes and athletics, I am a member of the Rochester Design club, the Women in Computing club, and the Varsity Student Athlete Advisory Committee.  I am also a Study Abroad Ambassador.  I have a brother who also attented the University of Rochester, a sister, and a dog.  In my free time I like listening to music, running, and taking pictures.
+				Hi, my name is Julia Myers! I am originally from Westfield, New Jersey but I currently live in Rocehster, New York while attending the University of Rochester.  At UofR I am studying to get a major in Digital Media Studies and a double minor in Computer Science and Business.  I am also a member of the varsity Cross Country and Track and Field Teams.  Outside of classes and athletics, I am a member of the Rochester Design club, the Women in Computing club, and the Varsity Student Athlete Advisory Committee.  I am also a Study Abroad Ambassador.  I have a brother who also attented the University of Rochester, a sister, and a dog.  In my free time I like listening to music, running, and taking pictures.
 			</p>
 
 

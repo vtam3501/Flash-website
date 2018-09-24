@@ -29,7 +29,7 @@
 			</figure>
 
 			<p>
-				My name is Jonathan Roman. I'm from Tenafly, NJ and was born September 6th, 1997. I currently attend the University of Rochester with a major in Computer Science. My hobbies include playing video games and basketball, both of which I participate in groups around campus for.
+				Hi, my name is Jonathan Roman. I'm from Tenafly, NJ and was born September 6th, 1997. I currently attend the University of Rochester with a major in Computer Science. My hobbies include playing video games and basketball, both of which I participate in groups around campus for.
 			</p>
 
 
