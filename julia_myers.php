@@ -54,9 +54,9 @@
 			<p> Hi, My name is Julia! I am originally from Westfield, New Jersey but I currently live in Rocehster, New York while attending the University of Rochester.  At UofR I am studying to get a major in Digital Media Studies and a double minor in Computer Science and Business.  I am also a member of the varsity Cross Country and Track and Field Teams.  Outside of classes and athletics, I am a member of the Rochester Design club, the Women in Computing club, and the Varsity Student Athlete Advisory Committee.  I am also a Study Abroad Ambassador.  I have a brother who also attented the University of Rochester, a sister, and a dog.  In my free time I like listening to music, running, and taking pictures.</p>
 		</div>
 
-		<footer class="footer">
-			<p>Julia Myers, CSC 174 Advanced Webpage Design and Development</p>
-		</footer>
+	<footer>
+		Julia myers 2018 | <a href="http://www.csc174.org/assignment01/jmyers/lab_01/"> See my initial website! </a>
+	<footer>
 
 		
 	</div>
