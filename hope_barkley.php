@@ -23,7 +23,7 @@
 		<h2> Brief Introduction</h2>
 
 		<figure>
-			<img src="images/portrait.jpg" alt = "Hope Barkley">
+			<img src="images/harkley.jpg" alt = "Hope Barkley">
 			<figcaption>
 				Here is a picture of Hope Barkley
 			</figcaption>

@@ -21,7 +21,7 @@
     <h2> Hope Barkley | Brief Introduction</h2>
 
       <figure>
-        <img src="images/portrait.jpg" alt="the picture of Hope Barkley">
+        <img src="images/hbarkley.jpg" alt="the picture of Hope Barkley">
 
         <figcaption>
           Here is a picture of Hope Barkley
@@ -66,7 +66,7 @@
 
         <figure>
 
-          <img src="images/jromanpic.jpg" alt="the picture of Jonathan Roman">
+          <img src="images/jroman.jpg" alt="the picture of Jonathan Roman">
 
           <figcaption>
             Here is a picture of Jonathan Roman
@@ -84,7 +84,7 @@
            Please see my initial website! | <a href="http://www.csc174.org/assignment01/jroman8/"> Jonathan Roman | 2018</a>
         </div>
 
-        
+
 
     </article>
 
