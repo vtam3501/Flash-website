@@ -38,30 +38,6 @@
 
 
 
-    <h2> Jonathan Roman | Brief Introduction</h2>
-
-        <figure>
-
-          <img src="images/jromanpic.jpg" alt="the picture of Jonathan Roman">
-
-          <figcaption>
-            Here is a picture of Jonathan Roman
-          </figcaption>
-
-        </figure>
-
-
-        <p>
-          Hi, my name is Jonathan Roman. I'm currently attend the University of Rochester with a major in Computer Science, and I'm a senior this semester. I'm from Tenafly, NJ and was born September 6th, 1997.  MY hobbies include playing video games and basketball, both of which I participate in groups around campus for.
-        </p>
-
-
-        <div>
-           Please see my initial website! | <a href="http://www.csc174.org/assignment01/jroman8/"> Jonathan Roman | 2018</a>
-        </div>
-
-
-
     <h2> Julia Myers | Brief Introduction</h2>
 
         <figure>
@@ -85,6 +61,30 @@
          </div>
 
 
+
+    <h2> Jonathan Roman | Brief Introduction</h2>
+
+        <figure>
+
+          <img src="images/jromanpic.jpg" alt="the picture of Jonathan Roman">
+
+          <figcaption>
+            Here is a picture of Jonathan Roman
+          </figcaption>
+
+        </figure>
+
+
+        <p>
+          Hi, my name is Jonathan Roman. I'm currently attend the University of Rochester with a major in Computer Science, and I'm a senior this semester. I'm from Tenafly, NJ and was born September 6th, 1997.  MY hobbies include playing video games and basketball, both of which I participate in groups around campus for.
+        </p>
+
+
+        <div>
+           Please see my initial website! | <a href="http://www.csc174.org/assignment01/jroman8/"> Jonathan Roman | 2018</a>
+        </div>
+
+        
 
     </article>
 
