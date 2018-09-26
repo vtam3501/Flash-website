@@ -16,7 +16,7 @@
 
   <?php include "inc/nav.inc"; ?>
 
-  <article>
+  <main>
 
     <h2> Hope Barkley | Brief Introduction</h2>
 
@@ -86,7 +86,7 @@
 
 
 
-    </article>
+    </main>
 
     <footer>
       <div>
