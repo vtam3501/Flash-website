@@ -29,7 +29,7 @@
 			</figure>
 			
 			<p> 
-				Hi, my name is Julia Myers! I am originally from Westfield, New Jersey but I currently live in Rocehster, New York while attending the University of Rochester.  At UofR I am studying to get a major in Digital Media Studies and a double minor in Computer Science and Business.  I am also a member of the varsity Cross Country and Track and Field Teams.  Outside of classes and athletics, I am a member of the Rochester Design club, the Women in Computing club, and the Varsity Student Athlete Advisory Committee.  I am also a Study Abroad Ambassador.  I have a brother who also attented the University of Rochester, a sister, and a dog.  In my free time I like listening to music, running, and taking pictures.
+				Hi, my name is Julia Myers! I am originally from Westfield, New Jersey but I currently live in Rocehster, New York while attending the University of Rochester.  At UofR I am studying to get a major in Digital Media Studies and a double minor in Computer Science and Business. I am also a member of the varsity Cross Country and Track and Field Teams. Outside of classes and athletics, I am a member of the Rochester Design club, the Women in Computing club, and the Varsity Student Athlete Advisory Committee.  I am also a Study Abroad Ambassador.  I have a brother who also attented the University of Rochester, a sister, and a dog.  In my free time I like listening to music, running, and taking pictures.
 			</p>
 
 
@@ -47,16 +47,18 @@
 
 		<h2>Experience </h2>
 			
+			<p> 
+				Since I was 16 years old, I have worked as a lifeguard and a swim instructor. I mainly held this job to make money throughout high school and to gain work experience. Also while in high school I worked as a tutor for the National Honors Society.  I tutored English and Math to a freshman student and helped him to study for the SAT.At the end of high school I interned with Nordstrom as a Fashion Ambassador on their BP Fashion Board.  As an intern I helped advise the staff on current trends, make decisions about what should be sold in the teen section of Nordstrom, and promote the brand on social media.
+			</p>
+
 			<p>
 				While studying abroad in Copenhagen this past spring, I interned at IIH Nordic, an online marketing and data analytics company.  There, I wrote articles for their website, helped to make promotional videos for the company, and helped to plan their events. I learned more about the possible professions in the technology and marketing fields, and gained practical work experience. Those experiences in conversation with my major courses have made me interested in pursuing an online marketing or data analytics career.
 			</p>
 
 
-		<h2>Interesting story of my life</h2>
+		<h2>One interesting experience I want to share</h2>
 
-			<p> 
-				Since I was 16 years old, I have worked as a lifeguard and a swim instructor.  I mainly held this job to make money throughout high school and to gain work experience. Also while in high school I worked as a tutor for the National Honors Society.  I tutored English and Math to a freshman student and helped him to study for the SAT.At the end of high school I interned with Nordstrom as a Fashion Ambassador on their BP Fashion Board.  As an intern I helped advise the staff on current trends, make decisions about what should be sold in the teen section of Nordstrom, and promote the brand on social media.
-			</p>
+			
 
 	</article>
 
