@@ -42,7 +42,7 @@
 
         <figure>
 
-          <img src="images/julia.jpg" alt="the picture of Julia Myers">
+          <img src="images/jmyers.jpg" alt="the picture of Julia Myers">
 
           <figcaption>
            Here is a picture of Julia Myers
