@@ -8,10 +8,10 @@
 ## About our Website
 
 ### Ontology:
-	This flash-website is aiming to introduce three studnets form the University of Rochester who are both interested in the web design area. They all have different interests, and all try their best to explore their life with different prosibility.
+	This flash-website is aiming to introduce three studnets from the University of Rochester who are all interested in the web design area and are from the East Coast. 
 
 ### Taxonomy:
-	We start each person's initial website by the "Breif Introducution part"
+	We start each person's initial website by the "Brief Introduction part"
 
 ### Choreography: 
 
