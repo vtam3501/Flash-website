@@ -17,7 +17,7 @@
 
 	<?php include "inc/nav.inc"; ?>
 
-	<article>
+	<main>
 
 		<h2> Brief Introduction</h2>
 
@@ -61,7 +61,7 @@
 
 
 
-	</article>
+	</main>
 
 	<footer>
 		Original Source: Julia Myers 2018 | <a href="http://www.csc174.org/assignment01/jmyers/lab_01/"> Initial Website <a>
