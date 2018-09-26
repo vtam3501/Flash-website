@@ -5,7 +5,7 @@
 <head>
 	<meta charset="utf-8">
 	<link rel="stylesheet" href="css/styles.css">
-	<link rel="stylesheet" href="css/navigation.css">
+	<link rel="stylesheet" href="css/nav.css">
 	<link rel="stylesheet" type="text/css" href="css/current.css">
 	<title>Hope Barkley | Team Tokyo</title>
 </head>
@@ -66,7 +66,7 @@
 
 
 	<footer>
-		Original Source: Hope Barkley 2018 |  <a href="http://www.csc174.org/assignment01/hbarkley/"> Initial Website <a>	
+		Original Source: Hope Barkley 2018 |  <a href="http://www.csc174.org/assignment01/hbarkley/"> Initial Website <a>
 	</footer>
 
 	<?php include "inc/scripts.inc"; ?>
@@ -74,4 +74,3 @@
 </body>
 
 </html>
-

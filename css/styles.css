@@ -1,8 +1,80 @@
 @import url('https://fonts.googleapis.com/css?family=M+PLUS+Rounded+1c');
 
 body {
-    margin: 0 auto;
-    width: 90%;
-    max-width: 960px;
-    font-family: 'M PLUS Rounded 1c', sans-serif;
+	margin: 0 auto;
+	width: 90%;
+	max-width: 960px;
+	font-family: 'M PLUS Rounded 1c', sans-serif;
+}
+
+/*.menu{
+	position: fixed;
+	z-index: 1;
+	right: 5%;
+  	bottom: 30px;
+  	transform: scale(0);
+  	transform-origin: right bottom;
+  	transition: transform 0.2s;
+}
+
+*/
+
+.title{
+    clear: both;
+}
+
+.kevin{
+    float: right;
+}
+
+.img1{
+	padding-right:10px;
+}
+
+.img2{
+	float: right;
+	margin:0 0 5px 10px;
+	padding:5px;
+}
+
+.img3{
+    float: left;
+    margin-left: 0px;
+}
+
+.figcaption1{
+	padding-bottom: 10px;
+}
+
+ .hometitle{
+	padding-top: 20px;
+	font-size: 30px;
+    clear: both;
+}
+
+span{
+	float:left;
+	width:0.7em;
+	font-size:300%;
+	line-height:80%;
+	padding-right: 10px;
+}
+
+
+.span1{
+	float: left;
+    width: 0.5em;
+    font-size: 200%;
+    line-height: 60%;
+    padding-right: 8px;
+}
+
+
+
+.bottom{
+	padding-top:40px;
+	padding-bottom: 20px;
+	text-align: center;
+	overflow: auto;
+	clear:right;
 }

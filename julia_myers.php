@@ -5,13 +5,13 @@
 <head>
 	<meta charset="utf-8">
 	<link rel="stylesheet" href="css/styles.css">
-	<link rel="stylesheet" href="css/navigation.css">
+	<link rel="stylesheet" href="css/nav.css">
 	<link rel="stylesheet" type="text/css" href="css/current.css">
 	<title>Julia Myers | Team Tokyo</title>
 </head>
 
 <body>
-	<header>	
+	<header>
 		<h1>Julia Myers</h1>
 	</header>
 
@@ -27,8 +27,8 @@
 					Here is a picture of Julia Myers
 				</figcaption>
 			</figure>
-			
-			<p> 
+
+			<p>
 				Hi, my name is Julia Myers! I am originally from Westfield, New Jersey but I currently live in Rocehster, New York while attending the University of Rochester.  At UofR I am studying to get a major in Digital Media Studies and a double minor in Computer Science and Business. I am also a member of the varsity Cross Country and Track and Field Teams. Outside of classes and athletics, I am a member of the Rochester Design club, the Women in Computing club, and the Varsity Student Athlete Advisory Committee.  I am also a Study Abroad Ambassador.  I have a brother who also attented the University of Rochester, a sister, and a dog.  In my free time I like listening to music, running, and taking pictures.
 			</p>
 
@@ -36,7 +36,7 @@
 		<h2>Academic Story</h2>
 
 			<p>
-			 	When I started school at the University of Rochester I started taking a lot od technology and design classes.  For my Digital Media Studies major I have taken courses including Programming for Digital Media, Design in the Digital Age, and Photography which have given me a well-rounded understanding of the media industries and the possible career paths within them.  Additionally, for my Computer Science minor, I have taken courses such as aken at the University of Rochester.  Computer Science classes such as Intro to Programming, Web design and Development, and Recreational Graphics.  For my Business minor I am currently taking Economics and Statistics and will go on to take Finance and Marketing classes in future semesters. 
+			 	When I started school at the University of Rochester I started taking a lot od technology and design classes.  For my Digital Media Studies major I have taken courses including Programming for Digital Media, Design in the Digital Age, and Photography which have given me a well-rounded understanding of the media industries and the possible career paths within them.  Additionally, for my Computer Science minor, I have taken courses such as aken at the University of Rochester.  Computer Science classes such as Intro to Programming, Web design and Development, and Recreational Graphics.  For my Business minor I am currently taking Economics and Statistics and will go on to take Finance and Marketing classes in future semesters.
 			</p>
 
 
@@ -46,8 +46,8 @@
 
 
 		<h2>Experience </h2>
-			
-			<p> 
+
+			<p>
 				Since I was 16 years old, I have worked as a lifeguard and a swim instructor. I mainly held this job to make money throughout high school and to gain work experience. Also while in high school I worked as a tutor for the National Honors Society.  I tutored English and Math to a freshman student and helped him to study for the SAT.At the end of high school I interned with Nordstrom as a Fashion Ambassador on their BP Fashion Board.  As an intern I helped advise the staff on current trends, make decisions about what should be sold in the teen section of Nordstrom, and promote the brand on social media.
 			</p>
 
@@ -58,15 +58,15 @@
 
 		<h2>One interesting experience I want to share</h2>
 
-			
+
 
 	</article>
 
 	<footer>
-		Original Source: Julia Myers 2018 | <a href="http://www.csc174.org/assignment01/jmyers/lab_01/"> Initial Website <a>	
+		Original Source: Julia Myers 2018 | <a href="http://www.csc174.org/assignment01/jmyers/lab_01/"> Initial Website <a>
 	</footer>
-	
+
 	<?php include "inc/scripts.inc"; ?>
-	
+
 </body>
 </html>

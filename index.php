@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <title>Flash Website | Team Tokyo</title>
   <link rel="stylesheet" href="css/styles.css">
-  <link rel="stylesheet" href="css/navigation.css">
+  <link rel="stylesheet" href="css/nav.css">
   <link rel="stylesheet" type="text/css" href="css/current.css">
 </head>
 
@@ -29,7 +29,7 @@
       </figure>
 
        <p>
-          Hi, my name is Hope Barkley and I am a digital media studies student at the University of Rochester. I am currently majoring in Digital Media Studies, an interdisciplinary major focussing on technology industries, and hope to pursue a career in design or web development post graduation. I grew up in Tarrytown, NY, a suburb about 30 minutes outside of New York City. 
+          Hi, my name is Hope Barkley and I am a digital media studies student at the University of Rochester. I am currently majoring in Digital Media Studies, an interdisciplinary major focussing on technology industries, and hope to pursue a career in design or web development post graduation. I grew up in Tarrytown, NY, a suburb about 30 minutes outside of New York City.
         </p>
 
         <div>
@@ -76,7 +76,7 @@
 
 
          <p>
-           Hi, my name is Julia Myers. I am a junior at the University of Rochester pursuing a major in Digital Media Studies as well as a double minor in Computer Science and Business.  I am originally from Westfield, New Jersey. 
+           Hi, my name is Julia Myers. I am a junior at the University of Rochester pursuing a major in Digital Media Studies as well as a double minor in Computer Science and Business.  I am originally from Westfield, New Jersey.
          </p>
 
 
@@ -95,6 +95,6 @@
     </footer>
 
     <?php include "inc/scripts.inc"; ?>
-    
+
   </body>
 </html>

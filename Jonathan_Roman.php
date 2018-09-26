@@ -5,7 +5,7 @@
 <head>
 	<meta charset="utf-8">
 	<link rel="stylesheet" href="css/styles.css">
-	<link rel="stylesheet" href="css/navigation.css">
+	<link rel="stylesheet" href="css/nav.css">
 	<link rel="stylesheet" type="text/css" href="css/current.css">
 	<title>Jonathan Roman | Team Tokyo</title>
 </head>
@@ -18,7 +18,7 @@
 	<?php include "inc/nav.inc"; ?>
 
 	<article>
-		
+
 		<h2>Brief Introduction</h2>
 
 			<figure>
@@ -29,7 +29,7 @@
 			</figure>
 
 			<p>
-				Hi, my name is Jonathan Roman. I'm from Tenafly, NJ and was born September 6th, 1997. I currently attend the University of Rochester with a major in Computer Science. My hobbies include playing video games and basketball, both of which I participate in groups around campus for. I'm interested in designing the photograph and the web design stuffs also inspired me a lot. 
+				Hi, my name is Jonathan Roman. I'm from Tenafly, NJ and was born September 6th, 1997. I currently attend the University of Rochester with a major in Computer Science. My hobbies include playing video games and basketball, both of which I participate in groups around campus for. I'm interested in designing the photograph and the web design stuffs also inspired me a lot.
 			</p>
 
 
@@ -37,7 +37,7 @@
 		<h2>Academic Story</h2>
 
 			<p>
-				As far as my academic career used to be, I was very into biology in high school. I would attend science competitions and fairs to present research I had begun through a special science research program in my school (which I credit my acceptance to the University of Rochester to). Since I was still a teenager, I had not really explored many fields up to this point and although the idea of biology excited me, I do not believe I was truly passionate about it. 
+				As far as my academic career used to be, I was very into biology in high school. I would attend science competitions and fairs to present research I had begun through a special science research program in my school (which I credit my acceptance to the University of Rochester to). Since I was still a teenager, I had not really explored many fields up to this point and although the idea of biology excited me, I do not believe I was truly passionate about it.
 			</p>
 
 			<p>
@@ -47,7 +47,7 @@
 
 
 		<h2>Experience </h2>
-			
+
 			<p>
 				Throughout high school I would work as a part-time tennis coach, though mostly had very light hours (about 4-5 hours a week). The hours were fairly flexible and I could pick up lessons whenever my local tennis club was teaching them, allowing me to change my schedule regularly as needed. At the time I was on the varsity tennis team so the only prerequisite I needed was to be able to play and have the patience to deal with children aged anywhere from 6-14. This was my first job I received on my own as well, which was different but educational for a 15-year-old me. Over the summer, I also taught at the summer camp which was a lot more demanding, as the hours would often be, besides for certain exceptions, 9am-4pm.
 			</p>
@@ -67,9 +67,9 @@
 
 	</article>
 
-	
+
 	<footer>
-		Original Source: Jonathan Roman 2018 | <a href="http://www.csc174.org/assignment01/jroman8/">  Initial Website <a>	
+		Original Source: Jonathan Roman 2018 | <a href="http://www.csc174.org/assignment01/jroman8/">  Initial Website <a>
 	</footer>
 
 	<?php include "inc/scripts.inc"; ?>
