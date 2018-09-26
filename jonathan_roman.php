@@ -22,7 +22,7 @@
 		<h2>Brief Introduction</h2>
 
 			<figure>
-				<img src="images/jromanpic.jpg" alt="Jonathan Roman">
+				<img src="images/jroman.jpg" alt="Jonathan Roman">
 				<figcaption>
 					Here is a picture of Jonathan Roman
 				</figcaption>

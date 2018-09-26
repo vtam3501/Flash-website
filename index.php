@@ -66,7 +66,7 @@
 
         <figure>
 
-          <img src="images/jromanpic.jpg" alt="the picture of Jonathan Roman">
+          <img src="images/jroman.jpg" alt="the picture of Jonathan Roman">
 
           <figcaption>
             Here is a picture of Jonathan Roman
@@ -84,7 +84,7 @@
            Please see my initial website! | <a href="http://www.csc174.org/assignment01/jroman8/"> Jonathan Roman | 2018</a>
         </div>
 
-        
+
 
     </article>
 
