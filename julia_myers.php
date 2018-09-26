@@ -22,7 +22,7 @@
 		<h2> Brief Introduction</h2>
 
 			<figure>
-				<img src="images/julia.jpg" alt = "Julia Myers">
+				<img src="images/jmyers.jpg" alt = "Julia Myers">
 				<figcaption>
 					Here is a picture of Julia Myers
 				</figcaption>
