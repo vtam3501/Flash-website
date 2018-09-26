@@ -21,7 +21,7 @@
     <h2> Hope Barkley | Brief Introduction</h2>
 
       <figure>
-        <img src="images/portrait.jpg" alt="the picture of Hope Barkley">
+        <img src="images/hbarkley.jpg" alt="the picture of Hope Barkley">
 
         <figcaption>
           Here is a picture of Hope Barkley
