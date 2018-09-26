@@ -23,25 +23,6 @@ body {
     clear: both;
 }
 
-.kevin{
-    float: right;
-}
-
-.img1{
-	padding-right:10px;
-}
-
-.img2{
-	float: right;
-	margin:0 0 5px 10px;
-	padding:5px;
-}
-
-.img3{
-    float: left;
-    margin-left: 0px;
-}
-
 .figcaption1{
 	padding-bottom: 10px;
 }
@@ -51,25 +32,6 @@ body {
 	font-size: 30px;
     clear: both;
 }
-
-span{
-	float:left;
-	width:0.7em;
-	font-size:300%;
-	line-height:80%;
-	padding-right: 10px;
-}
-
-
-.span1{
-	float: left;
-    width: 0.5em;
-    font-size: 200%;
-    line-height: 60%;
-    padding-right: 8px;
-}
-
-
 
 .bottom{
 	padding-top:40px;
