@@ -55,7 +55,7 @@
 		<h2>One interesting experience I want to share</h2>
 			
 			<p>
-				During the spring semester of my sophomore year, I studied abroad in Copenhagen, Denmark.  There, I focused my studies on Communications and Media studies.  While abroad I took Cross Cultural Communicaiton, Digital Media in Marketing, Photojournalism, and Sociology of the Family.  I also had an internship in Copenhagen that you can read about in the experiences page!
+				My biggest project during my internship was helping to run their event called Web Analytics Wednesday.  This event gathered data marketers and analysts for a lecture conference where guest lecturers could talk about cool upcoming advancements in the industry.  It was a really cool way to meet influencers and network with some really awesome people!
 			</p>
 
 
