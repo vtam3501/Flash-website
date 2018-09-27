@@ -18,7 +18,7 @@
 
 	<?php include "inc/nav.inc"; ?>
 
-	<article>
+	<main>
 
 		<h2> Brief Introduction</h2>
 
@@ -62,7 +62,7 @@
 				Last semester, I was a teaching assistant for Economics 207, an intermediate microeconomics course taught by Professor Rizzo. As part of my responsiblities I graded Problem sets, exams, and help develop the course scope. I really enjoyed this course when I took it and loved the chance to teach other students. This semester I am currently working as a Teaching Assistant for the Computer Science department in an introduction to Python course, CSC 161 taught by Professor Sarkis. I really loved the problem solving aspect of the labs, and so I decided to serve as a lab TA for the course. Weekly, I run two lab sessions for upwards of 50 students and answer questions on their homework assignments.
 			</p>
 
-	</article>
+	</main>
 
 
 	<footer>

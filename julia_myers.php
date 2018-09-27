@@ -17,12 +17,12 @@
 
 	<?php include "inc/nav.inc"; ?>
 
-	<article>
+	<main>
 
 		<h2> Brief Introduction</h2>
 
 			<figure>
-				<img src="images/julia.jpg" alt = "Julia Myers">
+				<img src="images/jmyers.jpg" alt = "Julia Myers">
 				<figcaption>
 					Here is a picture of Julia Myers
 				</figcaption>
@@ -61,7 +61,7 @@
 
 
 
-	</article>
+	</main>
 
 	<footer>
 		Original Source: Julia Myers 2018 | <a href="http://www.csc174.org/assignment01/jmyers/lab_01/"> Initial Website <a>

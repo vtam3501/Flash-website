@@ -16,7 +16,7 @@
 
   <?php include "inc/nav.inc"; ?>
 
-  <article>
+  <main>
 
     <h2> Hope Barkley | Brief Introduction</h2>
 
@@ -42,7 +42,7 @@
 
         <figure>
 
-          <img src="images/julia.jpg" alt="the picture of Julia Myers">
+          <img src="images/jmyers.jpg" alt="the picture of Julia Myers">
 
           <figcaption>
            Here is a picture of Julia Myers
@@ -86,7 +86,7 @@
 
 
 
-    </article>
+    </main>
 
     <footer>
       <div>
