@@ -18,7 +18,7 @@
 
   <main>
 
-    <h2> Hope Barkley | Brief Introduction</h2>
+    <h2 class="titile"> Hope Barkley | Brief Introduction</h2>
 
       <figure>
         <img src="images/hbarkley.jpg" alt="the picture of Hope Barkley">
@@ -36,8 +36,6 @@
            Please see my initial website! | <a href="http://www.csc174.org/assignment01/hbarkley/"> Hope Barkley | 2018</a>
         </div>
 
-
-
     <h2> Julia Myers | Brief Introduction</h2>
 
         <figure>
@@ -50,17 +48,13 @@
 
          </figure>
 
-
          <p>
            Hi, my name is Julia Myers. I am a junior at the University of Rochester pursuing a major in Digital Media Studies as well as a double minor in Computer Science and Business.  I am originally from Westfield, New Jersey.
          </p>
 
-
          <div>
            Please see my initial website! | <a href="http://www.csc174.org/assignment01/jmyers/lab_01/">Julia Myers | 2018</a>
          </div>
-
-
 
     <h2> Jonathan Roman | Brief Introduction</h2>
 
@@ -74,16 +68,13 @@
 
         </figure>
 
-
         <p>
           Hi, my name is Jonathan Roman. I'm currently attend the University of Rochester with a major in Computer Science, and I'm a senior this semester. I'm from Tenafly, NJ and was born September 6th, 1997.  MY hobbies include playing video games and basketball, both of which I participate in groups around campus for.
         </p>
 
-
         <div>
            Please see my initial website! | <a href="http://www.csc174.org/assignment01/jroman8/"> Jonathan Roman | 2018</a>
         </div>
-
 
 
     </main>
