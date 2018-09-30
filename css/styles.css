@@ -7,32 +7,42 @@ body {
 	font-family: 'M PLUS Rounded 1c', sans-serif;
 }
 
-/*.menu{
-	position: fixed;
-	z-index: 1;
-	right: 5%;
-  	bottom: 30px;
-  	transform: scale(0);
-  	transform-origin: right bottom;
-  	transition: transform 0.2s;
+.big {
+	text-align: center;
+	font-size: 40px;
 }
 
-*/
-
-.title{
-    clear: both;
+section {
+	margin: 20px;
+	padding: 10px;
+	border: 10px solid transparent;
+    border-image: url(../images/border-img.svg) 30 round;
+	overflow: hidden;
 }
 
- .hometitle{
-	padding-top: 20px;
-	font-size: 30px;
-    clear: both;
+section p {
+	font-size: 20px;
+}
+
+.img-left {
+	float: left;
+	margin: 10px;
+	width: 33.3%;
+}
+
+.img-left img {
+	padding-left: 8px;
+}
+
+.img-right {
+	float: right;
+	margin: 10px;
+	width: 33.3%;
 }
 
 .bottom{
 	padding-top:40px;
 	padding-bottom: 20px;
 	text-align: center;
-	overflow: auto;
 	clear:right;
 }
