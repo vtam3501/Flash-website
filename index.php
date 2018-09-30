@@ -1,11 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
+<?php include "inc/html-top.inc"; ?>
 
-<head>
-  <meta charset="utf-8">
-  <link rel="stylesheet" href="css/styles.css">
-  <link rel="stylesheet" href="css/nav.css">
-  <link rel="stylesheet" type="text/css" href="css/current.css">
   <title>Flash Website | Team Tokyo</title>
 </head>
 
