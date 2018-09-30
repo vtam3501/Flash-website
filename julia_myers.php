@@ -65,7 +65,7 @@
 
 	<footer>
 		<div class="bottom">
-			Original Source: Julia Myers 2018 | <a href="http://www.csc174.org/assignment01/jmyers/lab_01/"> Initial Website <a>
+			Original Source: Julia Myers 2018 | <a href="http://www.csc174.org/assignment01/jmyers/lab_01/"> Initial Website </a>
 		</div>
 	</footer>
 

@@ -70,7 +70,7 @@
 
 	<footer>
 		<div class="bottom">
-			Original Source: Jonathan Roman 2018 | <a href="http://www.csc174.org/assignment01/jroman8/">  Initial Website <a>
+			Original Source: Jonathan Roman 2018 | <a href="http://www.csc174.org/assignment01/jroman8/">  Initial Website </a>
 		</div>
 	</footer>
 

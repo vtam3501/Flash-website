@@ -70,7 +70,7 @@
 
 	<footer>
 		<div class="bottom">
-			Original Source: Hope Barkley 2018 |  <a href="http://www.csc174.org/assignment01/hbarkley/"> Initial Website <a>
+			Original Source: Hope Barkley 2018 |  <a href="http://www.csc174.org/assignment01/hbarkley/"> Initial Website </a>
 		</div>
 	</footer>
 
