@@ -9,18 +9,28 @@
 
 ### Ontology:
 * The three studnets in team Tokyo are all from the University of Rochester who are all interested in the web design area
+
 * They are all from the East Coast of America. 
+
 * They all tried their best to explore their life with possibilities, seeking their career interests in the Web design or digital media area.
 
 ### Taxonomy:
-* We start each person's initial website by the "Brief Introduction part", then the "Academic Story", after that is the "Experience" mainly talk about their internship, at last is the "One Interesting Experience I want to share".
-* Our home page that introducing each member of team Tokyo is following the order of their last name Alphabatically.
-* We also set the order of the navigation the same as the home page. (Alphabatical in Last name).
+* The website contains one home page and three biography pages.
 
+* In the home page, we present each team member with their names, their pictures and a short introduction. By clicking the picture, the reader will go to the person's biograph page on this website.
+
+* The introduction is a small taste for readers to have an overview about the peroson before they see their initial website and their biographic page.
+
+* Below the introduction, there is a link to their inital website.
 
 ### Choreography: 
-* Generally speaking, we shape the information structure for this website from large information size to small and specific perosonal story. 
-* In the brief intoduction part, we give the readers a overview of the person on the page, which information is very general.
-* In the second part, "Academic Story", we show the person's academic history and his/her academic interests. In this part, we focus on only the academic side.
-* In the thrid part, "Experience", we states the person's intership or job experience, to show how they are preparing for the coming future. In this part, se focus on only the intership part.
-* In the last "One Interesting Experience I Want to share" Part, we ask the group member each to tell an interesting story that happens in their internship. This part is about the very specific personal story.
+
+* Our home page that introducing each member of team Tokyo is following the order of their last name Alphabatically and so is the navigation order.
+
+* On the biography page, the student's name is listed in the top center of the page so that it draws the attention, and shows the person that is page is talking about. 
+
+* The information structure of the biographyt website is shaped from large information scale(general information) to small and specific perosonal story. 
+
+* We indroduce the person's "brief introduction" first, then the "Academic story" and "Experience", which focus on these specific areas, and at last"One interesting story I want to share" which is about the personal story.
+
+
