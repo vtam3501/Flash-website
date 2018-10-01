@@ -15,7 +15,7 @@
 		<section>
 			<h2>Brief Introduction</h2>
 
-			<figure>
+			<figure class="img-left">
 				<img src="images/jroman.jpg" alt="Jonathan Roman">
 				<figcaption>
 					Here is a picture of Jonathan Roman
